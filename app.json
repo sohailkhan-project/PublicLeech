@@ -16,7 +16,7 @@
   ],
   "repository": "https://github.com/SpEcHiDe/PublicLeech",
   "website": "https://github.com/SpEcHiDe/PublicLeech",
-  "logo": "https://telegra.ph/file/8b973b270f4f380a427b1.png",
+  "logo": "https://telegra.ph/file/3c1be012bf847347f97e7.jpg",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -24,19 +24,19 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "1089218"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "b6bdbb931516e5f9405f96ae129a412a"
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": ""
+      "value": "1627208503:AAGKtYcTP3Uyll_RwZ2dGSquDGSLLVj97RU"
     },
     "AUTH_CHANNEL": {
       "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work.",
-      "value": ""
+      "value": "1409192968"
     },
     "CHUNK_SIZE": {
       "description": "should be an integer",
